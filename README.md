@@ -9,7 +9,7 @@ Welcome to my **Weather App**, a sleek and real-time weather forecast applicatio
 ### 🌌 Home Screen
 Displays the current temperature, condition (e.g., clear, cloudy), and air quality for the selected location.
 
-<img src="./assets/images/home_screen.jpg" alt="Home Screen" width="300"/>
+<img src="./assets/images/PHOTO-2025-07-08-18-55-52.jpg" alt="Home Screen" width="300"/>
 
 ### 🌧️ Forecast and Air Quality
 Includes 3-day weather forecast, air quality index, and hourly rainfall predictions.
