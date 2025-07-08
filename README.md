@@ -14,7 +14,7 @@ Displays the current temperature, condition (e.g., clear, cloudy), and air quali
 ### 🌧️ Forecast and Air Quality
 Includes 3-day weather forecast, air quality index, and hourly rainfall predictions.
 
-<img src="./assets/images/forecast_screen.jpg" alt="Forecast Screen" width="300"/>
+<img src="./assets/images/PHOTO-2025-07-08-18-56-02.jpg" alt="Forecast Screen" width="300"/>
 
 ---
 
